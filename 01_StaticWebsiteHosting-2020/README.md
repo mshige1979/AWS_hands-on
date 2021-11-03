@@ -18,6 +18,7 @@ S3 の静的ホスティング機能を使ってみる
 
 ## 3
 
+Cloud9 環境を立ち上げて静的コンテンツを開発する + AWS CLI で S3 にファイルアップロードする  
 [Youtube の Link](https://www.youtube.com/watch?v=evZATui-p3E)
 
 ## 4
