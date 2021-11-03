@@ -34,7 +34,7 @@ Cloud9 環境を立ち上げて静的コンテンツを開発する + AWS CLI �
 
 ## 5
 
-このあとのハンズオンの流れ + CloudFront, Route 53, ACM の紹介
+このあとのハンズオンの流れ + CloudFront, Route 53, ACM の紹介  
 [Youtube の Link](https://www.youtube.com/watch?v=adfiRk5q2ko)
 
 ## 6
