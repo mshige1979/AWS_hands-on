@@ -4,7 +4,13 @@ AWS 上で静的な Web サイトを公開しよう！
 
 ## 概要
 
+### 参照元 URL
+
 https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StaticWebsiteHosting-2020-reg-event-CP_1216.html
+
+### ハンズオン一覧
+
+https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
 
 ## 1
 
